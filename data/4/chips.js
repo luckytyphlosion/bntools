@@ -2424,7 +2424,7 @@ const DATA_4_chips = [
             "en": "3-sq atk\nPowerful\non pitfal",
             "ja": "よこ3マスの攻撃\nアリジゴクの上だと\nパワーアップ！"
         },
-        "element": "fire",
+        "element": "null",
         "codes": "ALS*",
         "mb": 24,
         "version": null,
