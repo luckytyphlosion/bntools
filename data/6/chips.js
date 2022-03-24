@@ -4494,7 +4494,7 @@ const DATA_6_chips = [
             "en": "Attk ahd.\nSuck in &\nshoot out",
             "ja": "前方のてきを攻撃\nおきものがあると\nすいこんではっしゃ"
         },
-        "element": "break",
+        "element": "null",
         "codes": "D*",
         "mb": 39,
         "version": "falzar",
@@ -4513,7 +4513,7 @@ const DATA_6_chips = [
             "en": "Attk ahd.\nSuck in &\nshoot out",
             "ja": "前方のてきを攻撃\nおきものがあると\nすいこんではっしゃ"
         },
-        "element": "break",
+        "element": "null",
         "codes": "D",
         "mb": 56,
         "version": "falzar",
@@ -4532,7 +4532,7 @@ const DATA_6_chips = [
             "en": "Attk ahd.\nSuck in &\nshoot out",
             "ja": "前方のてきを攻撃\nおきものがあると\nすいこんではっしゃ"
         },
-        "element": "break",
+        "element": "null",
         "codes": "D",
         "mb": 74,
         "version": "falzar",
