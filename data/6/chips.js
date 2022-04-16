@@ -5215,7 +5215,7 @@ const DATA_6_chips = [
             "en": "Cross-\nslice!",
             "ja": "前方のてきを\nクロスにきりつける"
         },
-        "element": "null",
+        "element": "sword",
         "codes": "D",
         "mb": 93,
         "version": "falzar",
