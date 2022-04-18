@@ -4285,7 +4285,7 @@ const DATA_5_chips = [
     },
     {
         "section": "mega",
-        "index": 36,
+        "index": 35,
         "name": {
             "en": "MagntMnSP",
             "ja": "マグネットマンSP"
@@ -4684,7 +4684,7 @@ const DATA_5_chips = [
     },
     {
         "section": "mega",
-        "index": 36,
+        "index": 35,
         "name": {
             "en": "KnigtMnSP",
             "ja": "ナイトマンSP"
