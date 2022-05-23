@@ -1950,7 +1950,7 @@ const DATA_6_chips = [
             "ja": "てきのはいごから\nスナームがあらわれ\nたいあたり攻撃！"
         },
         "element": "null",
-        "codes": "HLS",
+        "codes": "HJS",
         "mb": 38,
         "version": null,
         "stars": 3,
