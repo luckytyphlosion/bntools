@@ -2995,7 +2995,7 @@ const DATA_4_chips = [
             "ja": "前方へとんでいき\n画面はしにきえると\n大ばくはつをおこす"
         },
         "element": "null",
-        "codes": "FVZ*",
+        "codes": "FVZ",
         "mb": 26,
         "version": null,
         "stars": 3,
