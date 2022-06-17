@@ -5262,8 +5262,8 @@ const DATA_6_chips = [
         "class": "giga"
     },
     {
-        "section": "mega",
-        "index": 46,
+        "section": "secret",
+        "index": 3,
         "name": {
             "en": "DblBeast",
             "ja": "ダブルビースト"
@@ -5281,8 +5281,8 @@ const DATA_6_chips = [
         "class": "mega"
     },
     {
-        "section": "giga",
-        "index": 6,
+        "section": "secret",
+        "index": 4,
         "name": {
             "en": "Gregar",
             "ja": "グレイガ"
@@ -5300,8 +5300,8 @@ const DATA_6_chips = [
         "class": "giga"
     },
     {
-        "section": "giga",
-        "index": 6,
+        "section": "secret",
+        "index": 4,
         "name": {
             "en": "Falzar",
             "ja": "ファルザー"
