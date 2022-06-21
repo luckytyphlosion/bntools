@@ -5029,7 +5029,7 @@ const DATA_2_chips = [
         },
         "element": "null",
         "codes": "G*",
-        "mb": 96,
+        "mb": 50,
         "version": null,
         "stars": 5,
         "damage": 300,
